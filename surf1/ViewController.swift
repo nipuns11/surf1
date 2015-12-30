@@ -2,9 +2,6 @@
 //  ViewController.swift
 //  surf1
 //
-//  Created by nipun sharma on 2015-10-30.
-//  Copyright © 2015 nipun. All rights reserved.
-//
 
 import UIKit
 import WebKit
